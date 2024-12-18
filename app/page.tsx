@@ -16,7 +16,7 @@ export default function Home() {
           Wendy&apos;s Raspberry Pi Project
         </h1>
         <a
-          className="rounded-full border border-solid border-transparent transition-colors flex justify-center items-center gap-2 hover:bg-[#383838] dark:hover:bg-white text-sm sm:text-base h-10 sm:h-12 px-8 sm:px-10"
+          className="rounded-full border border-solid border-transparent transition-colors flex justify-center items-center gap-2 bg-[#4F4F4F] hover:bg-[#4a4a4a] dark:hover:bg-white text-sm sm:text-base h-10 sm:h-12 px-8 sm:px-10"
           href="/stats"
           target="_blank"
           rel="noopener noreferrer"
