@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <h1 className="text-4xl font-bold text-center px-4 sm:px-60">
-          Wendy&apos;s Raspberry Pi Project
+          ChingWen&apos;s Raspberry Pi Project
         </h1>
         <a
           className="rounded-full border border-solid border-transparent transition-colors flex justify-center items-center gap-2 bg-[#4F4F4F] hover:bg-[#4a4a4a] dark:hover:bg-white text-sm sm:text-base h-10 sm:h-12 px-8 sm:px-10"
